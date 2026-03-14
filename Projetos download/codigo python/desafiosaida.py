@@ -1,0 +1,6 @@
+print("Informações:\n")
+print("Nome: Danielle Almeida \n")
+print(f"Idade: {38: d} \n")
+print(f"Salário: R${10.98936: .3f} \n")
+print("Nacionalidade: Brasileira.")
+print()

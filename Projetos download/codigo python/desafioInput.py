@@ -1,0 +1,12 @@
+nome = input("Digite seu nome: ")
+telefone = input("Digite seu telefone: ")
+identidade = input("Digite o número da sua identidade ")
+print()
+
+print("As informações digitadas são:\n")
+print(f"Nome: {nome}")
+print()
+print(f"Telefone: {telefone}")
+print()
+print(f"identidade: {identidade}")
+print()
